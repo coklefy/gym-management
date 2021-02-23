@@ -13,3 +13,5 @@ The main functionality that the application includes:
   - Client Card Update
   - Alternative Schedule Update
   - Cardio / muscular activity activities
+
+> Project of course: Database ([unibo](https://www.unibo.it/it))
